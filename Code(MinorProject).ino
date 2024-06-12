@@ -2,7 +2,7 @@
 #define ENABLE_DEBUG
 
 /*
-install SinrivPro by Boris librayr with dependencies
+install SinrivPro  Boris librayr with dependencies
 Your device is ready to connect
 Your Device Id is
 66372ab06443b9bfe2b46228
